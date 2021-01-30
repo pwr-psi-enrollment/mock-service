@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "name": "Jan Andrzej",
+  "surname": "Kowalski",
+  "fieldOfStudies": [
+    {
+      "id": 29,
+      "faculty": {
+        "id": 8,
+        "name": "Wydział Informatyki i Zarządzania"
+      },
+      "name": "Informatyka stosowana",
+      "studyDegree": 2,
+      "specialization": "Inżynieria Oprogramowania",
+      "semesters": [
+        {
+          "id": 10,
+          "academicYear": "2019/2020",
+          "semesterType": "WINTER",
+          "year": 1,
+          "semesterNumber": 1
+        },
+        {
+          "id": 11,
+          "academicYear": "2020/2021",
+          "semesterType": "SUMMER",
+          "year": 1,
+          "semesterNumber": 2
+        },
+        {
+          "id": 12,
+          "academicYear": "2021/2022",
+          "semesterType": "WINTER",
+          "year": 2,
+          "semesterNumber": 3
+        }
+      ]
+    }
+  ]
+}

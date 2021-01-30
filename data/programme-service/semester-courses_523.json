@@ -1,0 +1,32 @@
+[
+  {
+    "id": 523,
+    "name": "Projektowanie Systemów Informatycznych",
+    "type": "LECTURE",
+    "ects": 3,
+    "groups": [
+      {
+        "id": 654,
+        "code": "Z01-22a",
+        "lecturer": "Dr inż. Bogumiła Hnatkowska",
+        "dayOfWeek": 1,
+        "start": "13:15",
+        "end": "15:00",
+        "room": "D-21/331",
+        "takenSeats": 14,
+        "allSeats": 18
+      },
+      {
+        "id": 655,
+        "code": "Z01-22b",
+        "lecturer": "Dr inż. Bogumiła Hnatkowska",
+        "dayOfWeek": 1,
+        "start": "15:15",
+        "end": "16:55",
+        "room": "D-21/331",
+        "takenSeats": 17,
+        "allSeats": 18
+      }
+    ]
+  }
+]
