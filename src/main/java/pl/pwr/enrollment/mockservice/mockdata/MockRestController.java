@@ -1,4 +1,4 @@
-package pl.pwr.enrollment.mockservice;
+package pl.pwr.enrollment.mockservice.mockdata;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -21,11 +21,5 @@ public class MockRestController {
 		String json = mockService.findOne(serviceName, resource, id);
 		return ResponseEntity.ok(json);
 	}
-
-//	@GetMapping("/{resource}")
-//	public ResponseEntity<List<JsonObject>> findAll(@PathVariable String serviceName, @PathVariable String resource) {
-//		List<JsonObject> json = mockService.findAll(serviceName, resource);
-//		return ResponseEntity.ok(json);
-//	}
 
 }
