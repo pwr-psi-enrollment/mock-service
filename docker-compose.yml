@@ -1,0 +1,47 @@
+version: '3'
+services:
+  mock-service:
+    build:
+      context: ./mock-service
+    image: mock-service
+    container_name: mock-service
+    restart: unless-stopped
+    tty: true
+    working_dir: /opt/mock-service
+    networks:
+      - app-network
+    volumes:
+      - "./mock-service/data:/opt/mock-service/data"
+
+  enrollment-service:
+    build:
+      context: ./enrollment-service
+    image: enrollment-service
+    container_name: enrollment-service
+    restart: unless-stopped
+    tty: true
+    working_dir: /opt/enrollment-service
+    networks:
+      - app-network
+      - mysql-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: nginx
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      - app-network
+    volumes:
+      - "./enrollment-service.conf:/etc/nginx/conf.d/enrollment-service.conf"
+      - "./nginx-cert.crt:/etc/ssl/nginx-cert.crt"
+      - "./nginx-cert.key:/etc/ssl/nginx-cert.key"
+
+networks:
+  app-network:
+    driver: bridge
+  mysql-network:
+    driver: bridge
