@@ -1,4 +1,4 @@
-package pl.pwr.enrollment.mockservice.student;
+package pl.pwr.enrollment.mockservice.mockdata;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
