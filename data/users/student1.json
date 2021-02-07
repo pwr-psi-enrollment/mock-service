@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "username": "student1",
+  "password": "student1",
+  "authorities": [
+  ]
+}

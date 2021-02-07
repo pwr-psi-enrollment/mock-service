@@ -54,4 +54,9 @@ public class AuthService {
 		return user.get();
 	}
 
+	public Long fetchUserId(String token) {
+		return JWT.decode(token)
+				.getClaim(USER_ID_CLAIM_NAME)
+				.asLong();
+	}
 }

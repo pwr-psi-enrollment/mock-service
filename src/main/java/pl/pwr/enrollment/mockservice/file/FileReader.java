@@ -27,14 +27,35 @@ public class FileReader {
 		this.objectMapper = objectMapper;
 	}
 
-	public Optional<String> readMockData(String serviceName, String resource, String id) {
-		Path resourcePath = Path.of(dataBasePath, serviceName, resource + "_" + id + ".json");
-		log.info("Requesting resource: {}", resourcePath);
-		return readFileAsString(resourcePath);
+	public Optional<String> readCoursesData(Long semesterId, Long registeredId) {
+		log.info("Requesting courses: semesterId={}, registeredId={}", semesterId, registeredId);
+		return readFileAsString(Path.of(
+				dataBasePath,
+				"courses",
+				String.format("semester_%d_registered_%d.json", semesterId, registeredId))
+		);
+	}
+
+	public Optional<String> readSemestersData(Long registeredId) {
+		log.info("Requesting semesters: registeredId={}", registeredId);
+		return readFileAsString(Path.of(
+				dataBasePath,
+				"semesters",
+				String.format("registered_%d.json", registeredId))
+		);
+	}
+
+	public Optional<String> readStudentsData(Long studentId) {
+		log.info("Requesting students: studentId={}", studentId);
+		return readFileAsString(Path.of(
+				dataBasePath,
+				"students",
+				String.format("student_%d.json", studentId))
+		);
 	}
 
 	public Optional<User> readUser(String username) {
-		Path path = Path.of(dataBasePath, "_users", username + ".json");
+		Path path = Path.of(dataBasePath, "users", username + ".json");
 		log.info("Reading user data: {}", username);
 		return readFileAsJson(path, User.class);
 	}

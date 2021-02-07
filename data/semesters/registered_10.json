@@ -1,0 +1,86 @@
+{
+  "registeredId": 10,
+  "semesters": [
+    {
+      "id": 10,
+      "academicYear": "2019/2020",
+      "semesterType": "WINTER",
+      "year": 1,
+      "semesterNumber": 1,
+      "courses": [
+        {
+          "id": 1,
+          "name": "Projektowanie Systemów Informatycznych",
+          "type": "LECTURE",
+          "ects": 1
+        },
+        {
+          "id": 2,
+          "name": "Projektowanie Systemów Informatycznych",
+          "type": "LABORATORY",
+          "ects": 3
+        },
+        {
+          "id": 3,
+          "name": "Projektowanie Systemów Informatycznych",
+          "type": "PROJECT",
+          "ects": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "academicYear": "2020/2021",
+      "semesterType": "SUMMER",
+      "year": 1,
+      "semesterNumber": 2,
+      "courses": [
+        {
+          "id": 4,
+          "name": "Projektowanie Systemów Informatycznych 2",
+          "type": "LECTURE",
+          "ects": 1
+        },
+        {
+          "id": 5,
+          "name": "Projektowanie Systemów Informatycznych 2",
+          "type": "LABORATORY",
+          "ects": 3
+        },
+        {
+          "id": 6,
+          "name": "Projektowanie Systemów Informatycznych 2",
+          "type": "PROJECT",
+          "ects": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "academicYear": "2021/2022",
+      "semesterType": "WINTER",
+      "year": 2,
+      "semesterNumber": 3,
+      "courses": [
+        {
+          "id": 7,
+          "name": "Projektowanie Systemów Informatycznych 3",
+          "type": "LECTURE",
+          "ects": 1
+        },
+        {
+          "id": 8,
+          "name": "Projektowanie Systemów Informatycznych 3",
+          "type": "LABORATORY",
+          "ects": 3
+        },
+        {
+          "id": 9,
+          "name": "Projektowanie Systemów Informatycznych 3",
+          "type": "PROJECT",
+          "ects": 2
+        }
+      ]
+    }
+  ]
+}

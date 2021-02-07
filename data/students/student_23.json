@@ -1,0 +1,18 @@
+{
+  "id": 23,
+  "name": "Piotr",
+  "surname": "Kwiatkowski",
+  "indexNumber": "256989",
+  "fieldOfStudies": [
+    {
+      "id": 53,
+      "faculty": {
+        "id": 4,
+        "name": "Wydział Elektroniczny"
+      },
+      "name": "Elektronika",
+      "studyDegree": 1,
+      "registeredId": 11
+    }
+  ]
+}

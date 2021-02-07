@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "name": "Jan Andrzej",
+  "surname": "Kowalski",
+  "indexNumber": "256987",
+  "fieldOfStudies": [
+    {
+      "id": 29,
+      "faculty": {
+        "id": 8,
+        "name": "Wydział Informatyki i Zarządzania"
+      },
+      "name": "Informatyka stosowana",
+      "studyDegree": 2,
+      "specialization": "Inżynieria Oprogramowania",
+      "registeredId": 10
+    }
+  ]
+}
