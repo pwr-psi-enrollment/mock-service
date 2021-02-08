@@ -1,35 +1,95 @@
 {
   "registrationId": 2,
   "courses": [
-      {
-        "id": 523,
-        "name": "Język Angielski C1.1",
-        "type": "EXERCISE",
-        "ects": 2,
-        "groups": [
-          {
-            "id": 654,
-            "code": "Z01-22a",
-            "lecturer": "Dr inż. Bogumiła Hnatkowska",
-            "dayOfWeek": 1,
-            "start": "13:15",
-            "end": "15:00",
-            "room": "D-21/331",
-            "takenSeats": 14,
-            "allSeats": 18
-          },
-          {
-            "id": 655,
-            "code": "Z01-22b",
-            "lecturer": "Dr inż. Bogumiła Hnatkowska",
-            "dayOfWeek": 1,
-            "start": "15:15",
-            "end": "16:55",
-            "room": "D-21/331",
-            "takenSeats": 17,
-            "allSeats": 18
-          }
-        ]
-      }
+    {
+      "id": 906,
+      "name": "Język Angielski B2+",
+      "type": "EXERCISE",
+      "ects": 1,
+      "zuu": 15,
+      "groups": [
+        {
+          "id": 801,
+          "code": "L00-26ac",
+          "lecturer": "Dr inż. Ludwik Maciejewski",
+          "dayOfWeek": 1,
+          "courseFrequency": "ODD_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "H-4/612",
+          "takenSeats": 15,
+          "allSeats": 18
+        },
+        {
+          "id": 802,
+          "code": "L00-26ab",
+          "lecturer": "Dr inż. Ludwik Maciejewski",
+          "dayOfWeek": 1,
+          "courseFrequency": "ODD_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "H-4/612",
+          "takenSeats": 17,
+          "allSeats": 18
+        },
+        {
+          "id": 803,
+          "code": "L00-26ae",
+          "lecturer": "Dr inż. Błażej Malinowski",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "H-4/612",
+          "takenSeats": 13,
+          "allSeats": 18
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "name": "Język Angielski C1+",
+      "type": "EXERCISE",
+      "ects": 1,
+      "zuu": 15,
+      "groups": [
+        {
+          "id": 804,
+          "code": "L00-27ac",
+          "lecturer": "Dr inż. Mikołaj Wojciechowski",
+          "dayOfWeek": 2,
+          "courseFrequency": "ODD_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "H-4/516",
+          "takenSeats": 16,
+          "allSeats": 18
+        },
+        {
+          "id": 805,
+          "code": "L00-27ab",
+          "lecturer": "Dr inż. Mikołaj Wojciechowski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "H-4/516",
+          "takenSeats": 18,
+          "allSeats": 18
+        },
+        {
+          "id": 806,
+          "code": "L00-27af",
+          "lecturer": "Dr inż. Błażej Malinowski",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "H-4/223",
+          "takenSeats": 7,
+          "allSeats": 18
+        }
+      ]
+    }
   ]
 }

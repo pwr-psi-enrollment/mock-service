@@ -1,35 +1,476 @@
 {
   "registrationId": 1,
   "courses": [
-      {
-        "id": 523,
-        "name": "Projektowanie Systemów Informatycznych",
-        "type": "LECTURE",
-        "ects": 3,
-        "groups": [
-          {
-            "id": 654,
-            "code": "Z01-22a",
-            "lecturer": "Dr inż. Bogumiła Hnatkowska",
-            "dayOfWeek": 1,
-            "start": "13:15",
-            "end": "15:00",
-            "room": "D-21/331",
-            "takenSeats": 14,
-            "allSeats": 18
-          },
-          {
-            "id": 655,
-            "code": "Z01-22b",
-            "lecturer": "Dr inż. Bogumiła Hnatkowska",
-            "dayOfWeek": 1,
-            "start": "15:15",
-            "end": "16:55",
-            "room": "D-21/331",
-            "takenSeats": 17,
-            "allSeats": 18
-          }
-        ]
-      }
+    {
+      "id": 523,
+      "name": "Bezpieczeństwo sys.web.i mob.",
+      "type": "LECTURE",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 654,
+          "code": "Z01-26a",
+          "lecturer": "Dr inż. Ireneusz Maciejewski",
+          "dayOfWeek": 1,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "B-4/331",
+          "takenSeats": 34,
+          "allSeats": 44
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "name": "Bezpieczeństwo sys.web.i mob.",
+      "type": "SEMINAR",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 655,
+          "code": "Z01-25a",
+          "lecturer": "Dr inż. Ireneusz Maciejewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "ODD_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "B-4/209",
+          "takenSeats": 14,
+          "allSeats": 20
+        },
+        {
+          "id": 656,
+          "code": "Z01-25b",
+          "lecturer": "Dr inż. Ireneusz Maciejewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "B-4/209",
+          "takenSeats": 19,
+          "allSeats": 20
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "name": "Bezpieczeństwo sys.web.i mob.",
+      "type": "LABORATORY",
+      "ects": 2,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 658,
+          "code": "Z01-24a",
+          "lecturer": "Dr inż. Ireneusz Maciejewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "ODD_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "B-4/209",
+          "takenSeats": 11,
+          "allSeats": 15
+        },
+        {
+          "id": 659,
+          "code": "Z01-24b",
+          "lecturer": "Dr inż. Ireneusz Maciejewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "B-4/209",
+          "takenSeats": 14,
+          "allSeats": 15
+        },
+        {
+          "id": 660,
+          "code": "Z01-24c",
+          "lecturer": "Dr inż. Ireneusz Maciejewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "B-4/209",
+          "takenSeats": 7,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "name": "Projektowanie sys. informat.",
+      "type": "LECTURE",
+      "ects": 2,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 661,
+          "code": "Z01-23a",
+          "lecturer": "Dr inż. Anita Kubiak",
+          "dayOfWeek": 1,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "B-4/220",
+          "takenSeats": 33,
+          "allSeats": 41
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "Projektowanie sys. informat.",
+      "type": "PROJECT",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 662,
+          "code": "Z01-22a",
+          "lecturer": "Dr inż. Anita Kubiak",
+          "dayOfWeek": 1,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "B-4/220",
+          "takenSeats": 15,
+          "allSeats": 15
+        },
+        {
+          "id": 663,
+          "code": "Z01-22b",
+          "lecturer": "Dr inż. Anita Kubiak",
+          "dayOfWeek": 1,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "15:15",
+          "end": "16:55",
+          "room": "B-4/220",
+          "takenSeats": 7,
+          "allSeats": 15
+        },
+        {
+          "id": 664,
+          "code": "Z01-22c",
+          "lecturer": "Dr inż. Alana Sikorska",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "17:05",
+          "end": "18:45",
+          "room": "B-4/110",
+          "takenSeats": 15,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Podstawy biz. i ochr.wł.intel.",
+      "type": "LECTURE",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 665,
+          "code": "Z01-07b",
+          "lecturer": "Dr inż. Florentyna Kozłowska",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "B-4/333",
+          "takenSeats": 134,
+          "allSeats": 180
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "name": "Zaawansowane sys. baz danych",
+      "type": "PROJECT",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 666,
+          "code": "Z01-29a",
+          "lecturer": "Dr inż. Norbert Kołodziej",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "17:05",
+          "end": "18:45",
+          "room": "B-4/421",
+          "takenSeats": 15,
+          "allSeats": 15
+        },
+        {
+          "id": 667,
+          "code": "Z01-29b",
+          "lecturer": "Dr inż. Norbert Kołodziej",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "17:05",
+          "end": "18:45",
+          "room": "B-4/421",
+          "takenSeats": 14,
+          "allSeats": 15
+        },
+        {
+          "id": 668,
+          "code": "Z01-29c",
+          "lecturer": "Dr inż. Norbert Kołodziej",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "18:55",
+          "end": "20:35",
+          "room": "B-4/421",
+          "takenSeats": 7,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "name": "Zaawansowane sys. baz danych",
+      "type": "LECTURE",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 669,
+          "code": "Z01-30a",
+          "lecturer": "Dr inż. Norbert Kołodziej",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "18:55",
+          "end": "20:35",
+          "room": "B-4/421",
+          "takenSeats": 33,
+          "allSeats": 41
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "name": "Zast.rozw.chmur.aplik.webowych",
+      "type": "PROJECT",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 670,
+          "code": "Z01-27a",
+          "lecturer": "Dr inż. Amir Kozłowski",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "18:55",
+          "end": "20:35",
+          "room": "B-4/422",
+          "takenSeats": 11,
+          "allSeats": 15
+        },
+        {
+          "id": 671,
+          "code": "Z01-27b",
+          "lecturer": "Dr inż. Amir Kozłowski",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "17:05",
+          "end": "18:45",
+          "room": "B-4/422",
+          "takenSeats": 15,
+          "allSeats": 15
+        },
+        {
+          "id": 672,
+          "code": "Z01-27c",
+          "lecturer": "Dr inż. Amir Kozłowski",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "B-4/422",
+          "takenSeats": 7,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "name": "Zast.rozw.chmur.aplik.webowych",
+      "type": "LECTURE",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 673,
+          "code": "Z01-28a",
+          "lecturer": "Dr inż. Amir Kozłowski",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "15:15",
+          "end": "16:55",
+          "room": "B-4/202",
+          "takenSeats": 34,
+          "allSeats": 41
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Inżynieria pozyskiwania i ochr",
+      "type": "PROJECT",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 674,
+          "code": "Z01-31a",
+          "lecturer": "Dr inż. Artur Baranowski",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "9:15",
+          "end": "11:00",
+          "room": "B-4/302",
+          "takenSeats": 7,
+          "allSeats": 15
+        },
+        {
+          "id": 675,
+          "code": "Z01-31b",
+          "lecturer": "Dr inż. Artur Baranowski",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "B-4/302",
+          "takenSeats": 12,
+          "allSeats": 15
+        },
+        {
+          "id": 676,
+          "code": "Z01-31c",
+          "lecturer": "Dr inż. Artur Baranowski",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "B-4/302",
+          "takenSeats": 14,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "name": "Inżynieria pozyskiwania i ochr",
+      "type": "LECTURE",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 677,
+          "code": "Z01-32a",
+          "lecturer": "Dr inż. Artur Baranowski",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "15:15",
+          "end": "16:55",
+          "room": "B-4/302",
+          "takenSeats": 29,
+          "allSeats": 41
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "name": "Technologie wsp.wytw.oprogr.",
+      "type": "PROJECT",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 678,
+          "code": "Z01-20a",
+          "lecturer": "Dr inż. Maksymilian Chmielewski",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "9:15",
+          "end": "11:00",
+          "room": "B-4/121",
+          "takenSeats": 15,
+          "allSeats": 15
+        },
+        {
+          "id": 679,
+          "code": "Z01-20b",
+          "lecturer": "Dr inż. Maksymilian Chmielewski",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "B-4/121",
+          "takenSeats": 13,
+          "allSeats": 15
+        },
+        {
+          "id": 680,
+          "code": "Z01-20c",
+          "lecturer": "Dr inż. Maksymilian Chmielewski",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "B-4/121",
+          "takenSeats": 8,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Inżynieria pozyskiwania i ochr",
+      "type": "LECTURE",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 681,
+          "code": "Z01-32a",
+          "lecturer": "Dr inż. Maksymilian Chmielewski",
+          "dayOfWeek": 5,
+          "courseFrequency": "ODD_WEEK",
+          "start": "15:15",
+          "end": "16:55",
+          "room": "B-4/121",
+          "takenSeats": 24,
+          "allSeats": 41
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Praca dyplomowa I",
+      "type": "PROJECT",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 681,
+          "code": "Z01-32a",
+          "lecturer": "Dr inż. Oktawian Krajewski",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "B-4/432",
+          "takenSeats": 31,
+          "allSeats": 45
+        }
+      ]
+    }
   ]
 }
