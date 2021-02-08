@@ -17,8 +17,8 @@ public class MockDataService {
 		this.fileReader = fileReader;
 	}
 
-	public Optional<String> getCourses(Long semesterId, Long registrationId) {
-		return fileReader.readCoursesData(semesterId, registrationId);
+	public Optional<String> getCourses(Long registrationId) {
+		return fileReader.readCoursesData(registrationId);
 	}
 
 	public Optional<String> getSemesters(Long registeredId) {

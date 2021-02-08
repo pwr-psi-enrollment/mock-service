@@ -32,10 +32,8 @@ public class MockDataController {
 	}
 
 	@GetMapping("/courses")
-	public ResponseEntity<String> getCourses(
-			@RequestParam("semesterId") Long semesterId,
-			@RequestParam("registrationId") Long registrationId) {
-		return mockDataService.getCourses(semesterId, registrationId)
+	public ResponseEntity<String> getCourses(@RequestParam("registrationId") Long registrationId) {
+		return mockDataService.getCourses(registrationId)
 				.map(ResponseEntity::ok)
 				.orElseGet(() -> ResponseEntity.notFound().build());
 	}

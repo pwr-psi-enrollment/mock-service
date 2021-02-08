@@ -1,12 +1,11 @@
 {
-  "semesterId": 10,
-  "registrationId": 1,
+  "registrationId": 2,
   "courses": [
       {
         "id": 523,
-        "name": "Projektowanie Systemów Informatycznych",
-        "type": "LECTURE",
-        "ects": 3,
+        "name": "Język Angielski C1.1",
+        "type": "EXERCISE",
+        "ects": 2,
         "groups": [
           {
             "id": 654,
