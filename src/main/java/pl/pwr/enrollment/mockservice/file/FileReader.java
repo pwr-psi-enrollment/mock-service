@@ -27,12 +27,12 @@ public class FileReader {
 		this.objectMapper = objectMapper;
 	}
 
-	public Optional<String> readCoursesData(Long semesterId, Long registeredId) {
-		log.info("Requesting courses: semesterId={}, registeredId={}", semesterId, registeredId);
+	public Optional<String> readCoursesData(Long semesterId, Long registrationId) {
+		log.info("Requesting courses: semesterId={}, registrationId={}", semesterId, registrationId);
 		return readFileAsString(Path.of(
 				dataBasePath,
 				"courses",
-				String.format("semester_%d_registered_%d.json", semesterId, registeredId))
+				String.format("semester_%d_registration_%d.json", semesterId, registrationId))
 		);
 	}
 
