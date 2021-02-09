@@ -12,85 +12,99 @@
           "id": 38,
           "name": "Matematyka",
           "type": "LECTURE",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 39,
           "name": "Fizyka",
           "type": "LECTURE",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 40,
           "name": "Komunikacja społeczna",
           "type": "SEMINAR",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 41,
           "name": "Metody matematyczne automatyki i robotyki",
           "type": "LECTURE",
-          "ects": 4
+          "ects": 4,
+          "zzu": 30
         },
         {
           "id": 42,
           "name": "Metody matematyczne automatyki i robotyki",
           "type": "EXERCISE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 43,
           "name": "Teoria i metody optymalizacji",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 44,
           "name": "Teoria i metody optymalizacji",
           "type": "EXERCISE",
-          "ects": 3
+          "ects": 3,
+          "zzu": 15
         },
         {
           "id": 45,
           "name": "Modelowanie i identyfikacja",
           "type": "LECTURE",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 46,
           "name": "Modelowanie i identyfikacja",
           "type": "LABORATORY",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 47,
           "name": "Teoria sterowania",
           "type": "LECTURE",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 48,
           "name": "Teoria sterowania",
           "type": "LABORATORY",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 49,
           "name": "Teoria sterowania",
           "type": "EXERCISE",
-          "ects": 1
+          "ects": 1,
+          "zzu": 30
         },
         {
           "id": 50,
           "name": "Język obcy A1",
           "type": "EXERCISE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 45
         },
         {
           "id": 51,
           "name": "Języka obcy B2+",
           "type": "EXERCISE",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         }
       ]
     },
@@ -105,91 +119,106 @@
           "id": 52,
           "name": "Seminarium specjalnosciowe",
           "type": "SEMINAR",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 53,
           "name": "Projekt specjalnosciowy 2",
           "type": "PROJECT",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 54,
           "name": "Algorytmy robotyki mobilnej",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 55,
           "name": "Algorytmy robotyki mobilnej",
           "type": "LABORATORY",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 56,
           "name": "Rozproszone systemy sterowania",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 57,
           "name": "Rozproszone systemy sterowania",
           "type": "LABORATORY",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 58,
           "name": "Metody sztucznej inteligencji",
           "type": "LECTURE",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 59,
           "name": "Metody sztucznej inteligencji",
           "type": "PROJECT",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 60,
           "name": "Systemy zdarzeniowe",
           "type": "LECTURE",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 61,
           "name": "Systemy zdarzeniowe",
           "type": "PROJECT",
-          "ects": 1
+          "ects": 1,
+          "zzu": 30
         },
         {
           "id": 62,
           "name": "Sterowanie adaptacyjne i odporne",
           "type": "LECTURE",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 63,
           "name": "Sterowanie adaptacyjne i odporne",
           "type": "LABORATORY",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 64,
           "name": "Sterowanie adaptacyjne i odporne",
           "type": "EXERCISE",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 65,
           "name": "Systemy sterowania robotów",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 66,
           "name": "Systemy sterowania robotów",
           "type": "PROJECT",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         }
       ]
     },
@@ -204,61 +233,71 @@
           "id": 67,
           "name": "Przedsiębiorczość",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 68,
           "name": "Przedsiębiorczość",
           "type": "SEMINAR",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 69,
           "name": "Seminarium dyplomowe",
           "type": "SEMINAR",
-          "ects": 3
+          "ects": 3,
+          "zzu": 30
         },
         {
           "id": 70,
           "name": "Praca dyplomowa",
           "type": "PROJECT",
-          "ects": 15
+          "ects": 15,
+          "zzu": 150
         },
         {
           "id": 71,
           "name": "Metody rozpoznawania sceny",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 15
         },
         {
           "id": 72,
           "name": "Planowanie ruchu robotów",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         },
         {
           "id": 73,
           "name": "Planowanie ruchu robotów",
           "type": "SEMINAR",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 74,
           "name": "Roboty społeczne",
           "type": "LECTURE",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 75,
           "name": "Roboty społeczne",
           "type": "LABORATORY",
-          "ects": 1
+          "ects": 1,
+          "zzu": 15
         },
         {
           "id": 76,
           "name": "Uczenie maszynowe",
           "type": "LECTURE",
-          "ects": 2
+          "ects": 2,
+          "zzu": 30
         }
       ]
     }
