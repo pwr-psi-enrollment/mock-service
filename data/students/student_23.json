@@ -5,7 +5,7 @@
   "indexNumber": "256075",
   "fieldsOfStudy": [
     {
-      "id": 1,
+      "id": 16,
       "faculty": {
         "id": 8,
         "name": "Wydział Informatyki i Zarządzania"
@@ -13,10 +13,10 @@
       "name": "Informatyka stosowana",
       "studyDegree": "MASTER",
       "specialization": "Inżynieria Oprogramowania",
-      "registeredId": 10
+      "registeredId": 16
     },
     {
-      "id": 2,
+      "id": 17,
       "faculty": {
         "id": 11,
         "name": "Wydział Elektroniki"

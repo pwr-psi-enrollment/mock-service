@@ -1,0 +1,291 @@
+{
+  "registeredId": 15,
+  "semesters": [
+    {
+      "id": 10,
+      "academicYear": "2019/2020",
+      "semesterType": "SUMMER",
+      "year": 1,
+      "semesterNumber": 1,
+      "courses": [
+        {
+          "id": 1,
+          "name": "Fizyczne podstawy współczesnej informatyki",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 2,
+          "name": "Statystyka w zastosowaniach",
+          "type": "LABORATORY",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 3,
+          "name": "Analiza biznesowa i systemowa",
+          "type": "LABORATORY",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 4,
+          "name": "Projekt i implementacja systemów webowych",
+          "type": "LABORATORY",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 5,
+          "name": "Projekt i implementacja systemów webowych",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 6,
+          "name": "Zwinne wytwarzanie oprogramowania",
+          "type": "SEMINAR",
+          "ects": 2,
+          "zzu": 15
+        },
+        {
+          "id": 7,
+          "name": "Programowanie współbieżne i funkcyjne",
+          "type": "LABORATORY",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 8,
+          "name": "Programowanie współbieżne i funkcyjne",
+          "type": "LECTURE",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 9,
+          "name": "Metody planowania i analizy eksperymentów",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 10,
+          "name": "Analiza biznesowa i systemowa",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 11,
+          "name": "Analiza biznesowa i systemowa",
+          "type": "EXERCISE",
+          "ects": 2,
+          "zzu": 15
+        },
+        {
+          "id": 12,
+          "name": "Projekt bad.-rozw.w inż. oprog",
+          "type": "LECTURE",
+          "ects": 2,
+          "zzu": 15
+        },
+        {
+          "id": 13,
+          "name": "Projekt bad.-rozw.w inż. oprog",
+          "type": "PROJECT",
+          "ects": 5,
+          "zzu": 45
+        },
+        {
+          "id": 14,
+          "name": "Język obcy KRK II st.",
+          "type": "EXERCISE",
+          "ects": 2,
+          "zzu": 15
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "academicYear": "2020/2021",
+      "semesterType": "WINTER",
+      "year": 1,
+      "semesterNumber": 2,
+      "courses": [
+        {
+          "id": 15,
+          "name": "Praca dyplomowa I",
+          "type": "PROJECT",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 16,
+          "name": "Technologie wspierające wytwarzanie oprogramowania",
+          "type": "LABORATORY",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 17,
+          "name": "Technologie wspierające wytwarzanie oprogramowania",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 18,
+          "name": "Projektowanie systemów informatycznych",
+          "type": "PROJECT",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 19,
+          "name": "Projektowanie systemów informatycznych",
+          "type": "LECTURE",
+          "ects": 2,
+          "zzu": 15
+        },
+        {
+          "id": 20,
+          "name": "Podstawy biznesu i ochrona własności intelektualnej",
+          "type": "LECTURE",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 21,
+          "name": "Bezpieczeństwo systemów webowych i mobilnych",
+          "type": "LECTURE",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 22,
+          "name": "Bezpieczeństwo systemów webowych i mobilnych",
+          "type": "SEMINAR",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 23,
+          "name": "Bezpieczeństwo systemów webowych i mobilnych",
+          "type": "LABORATORY",
+          "ects": 2,
+          "zzu": 15
+        },
+        {
+          "id": 24,
+          "name": "Zastosowanie rozwiązań chmurowych w aplikacjach webowych",
+          "type": "PROJECT",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 25,
+          "name": "Zastosowanie rozwiązań chmurowych w aplikacjach webowych",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 26,
+          "name": "Zaawansowane systemy baz danych",
+          "type": "PROJECT",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 27,
+          "name": "Zaawansowane systemy baz danych",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 28,
+          "name": "Inżynieria pozyskiwania i ochrony wiedzy z danych i baz danych",
+          "type": "PROJECT",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 29,
+          "name": "Inżynieria pozyskiwania i ochrony wiedzy z danych i baz danych",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 30,
+          "name": "Język obcy KRK II st.",
+          "type": "EXERCISE",
+          "ects": 1,
+          "zzu": 15
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "academicYear": "2020/2021",
+      "semesterType": "SUMMER",
+      "year": 2,
+      "semesterNumber": 3,
+      "courses": [
+        {
+          "id": 31,
+          "name": "Praca dyplomowa II",
+          "type": "PROJECT",
+          "ects": 18,
+          "zzu": 150
+        },
+        {
+          "id": 32,
+          "name": "Seminarium dyplomowe",
+          "type": "SEMINAR",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 33,
+          "name": "Przetwarzanie dużych zbiorów danych",
+          "type": "PROJECT",
+          "ects": 3,
+          "zzu": 30
+        },
+        {
+          "id": 34,
+          "name": "Przetwarzanie dużych zbiorów danych",
+          "type": "LECTURE",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 35,
+          "name": "Systemy wyszukiwania informacji",
+          "type": "PROJECT",
+          "ects": 2,
+          "zzu": 30
+        },
+        {
+          "id": 36,
+          "name": "Systemy wyszukiwania informacji",
+          "type": "LECTURE",
+          "ects": 1,
+          "zzu": 15
+        },
+        {
+          "id": 37,
+          "name": "Etyka nowych technologii",
+          "type": "SEMINAR",
+          "ects": 2,
+          "zzu": 15
+        }
+      ]
+    }
+  ]
+}

@@ -17,8 +17,7 @@
           "start": "09:15",
           "end": "11:00",
           "room": "B-4/331",
-          "takenSeats": 34,
-          "allSeats": 44
+          "allSeats": 20
         }
       ]
     },
@@ -38,8 +37,7 @@
           "start": "11:15",
           "end": "13:00",
           "room": "B-4/209",
-          "takenSeats": 14,
-          "allSeats": 20
+          "allSeats": 10
         },
         {
           "id": 656,
@@ -50,8 +48,7 @@
           "start": "11:15",
           "end": "13:00",
           "room": "B-4/209",
-          "takenSeats": 19,
-          "allSeats": 20
+          "allSeats": 10
         }
       ]
     },
@@ -71,8 +68,7 @@
           "start": "09:15",
           "end": "11:00",
           "room": "B-4/209",
-          "takenSeats": 11,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 659,
@@ -83,8 +79,7 @@
           "start": "09:15",
           "end": "11:00",
           "room": "B-4/209",
-          "takenSeats": 14,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 660,
@@ -95,8 +90,7 @@
           "start": "13:15",
           "end": "15:00",
           "room": "B-4/209",
-          "takenSeats": 7,
-          "allSeats": 15
+          "allSeats": 5
         }
       ]
     },
@@ -116,8 +110,7 @@
           "start": "11:15",
           "end": "13:00",
           "room": "B-4/220",
-          "takenSeats": 33,
-          "allSeats": 41
+          "allSeats": 20
         }
       ]
     },
@@ -137,8 +130,7 @@
           "start": "13:15",
           "end": "15:00",
           "room": "B-4/220",
-          "takenSeats": 15,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 663,
@@ -149,8 +141,7 @@
           "start": "15:15",
           "end": "16:55",
           "room": "B-4/220",
-          "takenSeats": 7,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 664,
@@ -161,8 +152,7 @@
           "start": "17:05",
           "end": "18:45",
           "room": "B-4/110",
-          "takenSeats": 15,
-          "allSeats": 15
+          "allSeats": 5
         }
       ]
     },
@@ -182,8 +172,7 @@
           "start": "07:30",
           "end": "09:00",
           "room": "B-4/333",
-          "takenSeats": 134,
-          "allSeats": 180
+          "allSeats": 20
         }
       ]
     },
@@ -203,8 +192,7 @@
           "start": "17:05",
           "end": "18:45",
           "room": "B-4/421",
-          "takenSeats": 15,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 667,
@@ -215,8 +203,7 @@
           "start": "17:05",
           "end": "18:45",
           "room": "B-4/421",
-          "takenSeats": 14,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 668,
@@ -227,8 +214,7 @@
           "start": "18:55",
           "end": "20:35",
           "room": "B-4/421",
-          "takenSeats": 7,
-          "allSeats": 15
+          "allSeats": 5
         }
       ]
     },
@@ -248,8 +234,7 @@
           "start": "18:55",
           "end": "20:35",
           "room": "B-4/421",
-          "takenSeats": 33,
-          "allSeats": 41
+          "allSeats": 5
         }
       ]
     },
@@ -269,8 +254,7 @@
           "start": "18:55",
           "end": "20:35",
           "room": "B-4/422",
-          "takenSeats": 11,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 671,
@@ -281,8 +265,7 @@
           "start": "17:05",
           "end": "18:45",
           "room": "B-4/422",
-          "takenSeats": 15,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 672,
@@ -293,8 +276,7 @@
           "start": "13:15",
           "end": "15:00",
           "room": "B-4/422",
-          "takenSeats": 7,
-          "allSeats": 15
+          "allSeats": 5
         }
       ]
     },
@@ -314,8 +296,7 @@
           "start": "15:15",
           "end": "16:55",
           "room": "B-4/202",
-          "takenSeats": 34,
-          "allSeats": 41
+          "allSeats": 10
         }
       ]
     },
@@ -335,8 +316,7 @@
           "start": "9:15",
           "end": "11:00",
           "room": "B-4/302",
-          "takenSeats": 7,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 675,
@@ -347,8 +327,7 @@
           "start": "11:15",
           "end": "13:00",
           "room": "B-4/302",
-          "takenSeats": 12,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 676,
@@ -359,8 +338,7 @@
           "start": "13:15",
           "end": "15:00",
           "room": "B-4/302",
-          "takenSeats": 14,
-          "allSeats": 15
+          "allSeats": 5
         }
       ]
     },
@@ -380,8 +358,7 @@
           "start": "15:15",
           "end": "16:55",
           "room": "B-4/302",
-          "takenSeats": 29,
-          "allSeats": 41
+          "allSeats": 10
         }
       ]
     },
@@ -401,8 +378,7 @@
           "start": "9:15",
           "end": "11:00",
           "room": "B-4/121",
-          "takenSeats": 15,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 679,
@@ -413,8 +389,7 @@
           "start": "11:15",
           "end": "13:00",
           "room": "B-4/121",
-          "takenSeats": 13,
-          "allSeats": 15
+          "allSeats": 5
         },
         {
           "id": 680,
@@ -425,8 +400,7 @@
           "start": "13:15",
           "end": "15:00",
           "room": "B-4/121",
-          "takenSeats": 8,
-          "allSeats": 15
+          "allSeats": 5
         }
       ]
     },
@@ -446,8 +420,7 @@
           "start": "15:15",
           "end": "16:55",
           "room": "B-4/121",
-          "takenSeats": 24,
-          "allSeats": 41
+          "allSeats": 10
         }
       ]
     },
@@ -467,8 +440,7 @@
           "start": "07:30",
           "end": "09:00",
           "room": "B-4/432",
-          "takenSeats": 31,
-          "allSeats": 45
+          "allSeats": 10
         }
       ]
     }
