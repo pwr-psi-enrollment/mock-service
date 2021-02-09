@@ -1,0 +1,30 @@
+{
+  "id": 23,
+  "name": "Judyta Elena",
+  "surname": "Błaszczyk",
+  "indexNumber": "256075",
+  "fieldsOfStudy": [
+    {
+      "id": 1,
+      "faculty": {
+        "id": 8,
+        "name": "Wydział Informatyki i Zarządzania"
+      },
+      "name": "Informatyka stosowana",
+      "studyDegree": "MASTER",
+      "specialization": "Inżynieria Oprogramowania",
+      "registeredId": 10
+    },
+    {
+      "id": 2,
+      "faculty": {
+        "id": 11,
+        "name": "Wydział Elektroniki"
+      },
+      "name": "Automatyka i Robotyka",
+      "studyDegree": "MASTER",
+      "specialization": "Robotyka",
+      "registeredId": 17
+    }
+  ]
+}
