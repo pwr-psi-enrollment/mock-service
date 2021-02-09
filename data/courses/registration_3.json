@@ -1,0 +1,404 @@
+{
+  "registrationId": 3,
+  "courses": [
+    {
+      "id": 711,
+      "name": "Seminarium specjalnosciowe",
+      "type": "SEMINAR",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 904,
+          "code": "Z02-26a",
+          "lecturer": "Dr inż. Alan Mróz",
+          "dayOfWeek": 1,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "D-1/301",
+          "takenSeats": 27,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "name": "Projekt specjalnosciowy 2",
+      "type": "PROJECT",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 905,
+          "code": "Z02-27a",
+          "lecturer": "Dr inż. Piotr Błaszczyk",
+          "dayOfWeek": 1,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/305",
+          "takenSeats": 29,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 713,
+      "name": "Algorytmy robotyki mobilnej",
+      "type": "LECTURE",
+      "ects": 2,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 906,
+          "code": "Z02-28a",
+          "lecturer": "Dr inż. Eugeniusz Czerwiński",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "D-1/302",
+          "takenSeats": 27,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 714,
+      "name": "Algorytmy robotyki mobilnej",
+      "type": "LABORATORY",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 907,
+          "code": "Z02-29a",
+          "lecturer": "Dr inż. Eugeniusz Czerwiński",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/302",
+          "takenSeats": 15,
+          "allSeats": 15
+        },
+        {
+          "id": 908,
+          "code": "Z02-29b",
+          "lecturer": "Dr inż. Eugeniusz Czerwiński",
+          "dayOfWeek": 2,
+          "courseFrequency": "ODD_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/302",
+          "takenSeats": 11,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "name": "Rozproszone systemy sterowania",
+      "type": "LECTURE",
+      "ects": 2,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 909,
+          "code": "Z02-30a",
+          "lecturer": "Dr inż. Piotr Błaszczyk",
+          "dayOfWeek": 2,
+          "courseFrequency": "ODD_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "D-1/311",
+          "takenSeats": 21,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "name": "Rozproszone systemy sterowania",
+      "type": "LABORATORY",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 910,
+          "code": "Z02-31a",
+          "lecturer": "Dr inż. Piotr Błaszczyk",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "D-1/322",
+          "takenSeats": 9,
+          "allSeats": 15
+        },
+        {
+          "id": 911,
+          "code": "Z02-31b",
+          "lecturer": "Dr inż. Piotr Błaszczyk",
+          "dayOfWeek": 2,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "D-1/322",
+          "takenSeats": 14,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "name": "Metody sztucznej inteligencji",
+      "type": "LECTURE",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 912,
+          "code": "Z02-32a",
+          "lecturer": "Dr inż. Remigiusz Stępień",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "D-1/401",
+          "takenSeats": 24,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "name": "Metody sztucznej inteligencji",
+      "type": "PROJECT",
+      "ects": 2,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 913,
+          "code": "Z02-33a",
+          "lecturer": "Dr inż. Remigiusz Stępień",
+          "dayOfWeek": 3,
+          "courseFrequency": "ODD_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/411",
+          "takenSeats": 14,
+          "allSeats": 15
+        },
+        {
+          "id": 914,
+          "code": "Z02-33b",
+          "lecturer": "Dr inż. Remigiusz Stępień",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/411",
+          "takenSeats": 9,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "name": "Systemy zdarzeniowe",
+      "type": "LECTURE",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 915,
+          "code": "Z02-34a",
+          "lecturer": "Dr inż. Jakub Krajewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "D-1/402",
+          "takenSeats": 22,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "name": "Systemy zdarzeniowe",
+      "type": "PROJECT",
+      "ects": 1,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 916,
+          "code": "Z02-35a",
+          "lecturer": "Dr inż. Jakub Krajewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "D-1/419",
+          "takenSeats": 8,
+          "allSeats": 15
+        },
+        {
+          "id": 917,
+          "code": "Z02-35b",
+          "lecturer": "Dr inż. Jakub Krajewski",
+          "dayOfWeek": 3,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "15:15",
+          "end": "16:55",
+          "room": "D-1/419",
+          "takenSeats": 13,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "name": "Sterowanie adaptacyjne i odporne",
+      "type": "LECTURE",
+      "ects": 3,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 918,
+          "code": "Z02-36a",
+          "lecturer": "Dr inż. Grzegorz Sawicki",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "07:30",
+          "end": "09:00",
+          "room": "D-1/435",
+          "takenSeats": 19,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "name": "Sterowanie adaptacyjne i odporne",
+      "type": "EXERCISE",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 919,
+          "code": "Z02-37a",
+          "lecturer": "Dr inż. Grzegorz Sawicki",
+          "dayOfWeek": 4,
+          "courseFrequency": "ODD_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/436",
+          "takenSeats": 15,
+          "allSeats": 15
+        },
+        {
+          "id": 920,
+          "code": "Z02-37b",
+          "lecturer": "Dr inż. Grzegorz Sawicki",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "09:15",
+          "end": "11:00",
+          "room": "D-1/436",
+          "takenSeats": 9,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "name": "Sterowanie adaptacyjne i odporne",
+      "type": "LABORATORY",
+      "ects": 1,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 921,
+          "code": "Z02-38a",
+          "lecturer": "Dr inż. Grzegorz Sawicki",
+          "dayOfWeek": 4,
+          "courseFrequency": "ODD_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "D-1/430",
+          "takenSeats": 13,
+          "allSeats": 15
+        },
+        {
+          "id": 922,
+          "code": "Z02-38b",
+          "lecturer": "Dr inż. Grzegorz Sawicki",
+          "dayOfWeek": 4,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "D-1/430",
+          "takenSeats": 9,
+          "allSeats": 15
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "name": "Systemy sterowania robotów",
+      "type": "LECTURE",
+      "ects": 2,
+      "zzu": 30,
+      "groups": [
+        {
+          "id": 923,
+          "code": "Z02-39a",
+          "lecturer": "Dr inż. Stanisława Kubiak",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVERY_WEEK",
+          "start": "11:15",
+          "end": "13:00",
+          "room": "D-1/222",
+          "takenSeats": 24,
+          "allSeats": 30
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "name": "Systemy sterowania robotów",
+      "type": "PROJECT",
+      "ects": 2,
+      "zzu": 15,
+      "groups": [
+        {
+          "id": 924,
+          "code": "Z02-40a",
+          "lecturer": "Dr inż. Stanisława Kubiak",
+          "dayOfWeek": 5,
+          "courseFrequency": "ODD_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "D-1/222",
+          "takenSeats": 9,
+          "allSeats": 15
+        },
+        {
+          "id": 925,
+          "code": "Z02-40b",
+          "lecturer": "Dr inż. Stanisława Kubiak",
+          "dayOfWeek": 5,
+          "courseFrequency": "EVEN_WEEK",
+          "start": "13:15",
+          "end": "15:00",
+          "room": "D-1/222",
+          "takenSeats": 15,
+          "allSeats": 15
+        }
+      ]
+    }
+  ]
+}
